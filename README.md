@@ -178,6 +178,16 @@ Instead, I am building the analytical foundation required to become one.
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ujjwal20020823&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=94A3B8" alt="GitHub contribution streak"/></a>
 </p>
 
+# Contribution Snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake.svg" />
+</picture>
+</p>
+
 
 <div align="center">
 

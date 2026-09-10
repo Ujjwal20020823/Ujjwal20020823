@@ -56,8 +56,6 @@ Building analytical models, investment research frameworks, financial tools and 
 
 </div>
 
-<br>
-
 <p align="center">
 <a href="#about-me">About</a> •
 <a href="#finance--analytics-stack">Stack</a> •

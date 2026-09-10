@@ -189,8 +189,6 @@ Instead, I am building the analytical foundation required to become one.
 - Frontier Markets
 - Capital Markets Research
 
-> **Positioning principle:** technology supports the finance identity. The objective is not to become a generic software developer, but to build better financial analysis through technology.
-
 ---
 
 # Featured Finance Projects
@@ -603,99 +601,6 @@ The long-term objective is to develop technology as an **analytical infrastructu
 
 ---
 
-# Research & Publications / Financial Thinking
-
-My GitHub is intended to complement financial writing and research by providing a place where analytical ideas can move from **concept → model → evidence → interpretation**.
-
-### Academic Research
-
-Academic research focuses on structured empirical questions, theory, methodology, statistical analysis and evidence.
-
-### Applied Financial Intelligence
-
-Applied financial intelligence focuses on turning financial data and research into:
-
-- Decision frameworks
-- Valuation models
-- Portfolio tools
-- Risk dashboards
-- Market-analysis systems
-- Investment research workflows
-
-### Financial Writing
-
-My **Substack** is the professional writing layer of this research journey, focused on financial thinking, market commentary, investment research and emerging/frontier-market perspectives.
-
-**Read the research and market perspectives:**
-
-https://substack.com/@shrestha25np
-
----
-
-# Experience & Leadership
-
-## SOMTU Finance Club
-
-**Organization:** School of Management, Tribhuvan University
-
-**Focus:** Finance education, capital markets, investment research and practical financial analysis
-
-### Scope
-
-- Finance education
-- Capital-market learning
-- Investment research
-- Practical financial modeling
-- Industry exposure
-- Financial literacy
-- Student-led finance initiatives
-
-### Selected Initiatives
-
-- SOMTU Pre-Budget Discussion 2083
-- Beyond the Charts Masterclass
-- Finance Lab initiatives
-- Capital-market simulations
-- Financial-analysis workshops
-
-### Professional Development Through Leadership
-
-The Finance Club environment provides an opportunity to connect:
-
-**Academic Finance → Industry Exposure → Financial Analysis → Investment Thinking**
-
----
-
-## Professional Financial Exposure
-
-### Insurance Sector
-
-Exposure to financial-services and insurance-sector activities, contributing to an understanding of financial institutions, client-facing environments and sector-specific financial considerations.
-
-### Market Research / Client Relationship Exposure
-
-Developing practical exposure to research, financial communication and client-oriented financial-service environments.
-
-> Responsibilities and scope are intentionally described conservatively to avoid overstating professional experience.
-
----
-
-# Achievements & Leadership
-
-| Recognition | Details |
-|---|---|
-| Finance Club Leadership | Student-led finance education and capital-market initiatives |
-| Finance Lab Initiatives | Development of practical finance-learning and analytical activities |
-| Finance Events | Organization and coordination of finance-focused programs |
-| Research Projects | Development of financial and investment research frameworks |
-| Financial Modeling | Portfolio, valuation and capital-allocation modeling work |
-| Academic Development | MBA Finance & Control specialization |
-| Capital-Market Engagement | Practical exposure to Nepalese capital-market research |
-
-> Specific awards, rankings and external recognitions are intentionally omitted unless independently verified.
-
----
-
 # Certifications & Professional Development
 
 Professional credentials should represent verified achievement rather than planned ambition.
@@ -714,11 +619,6 @@ At present, this profile intentionally avoids displaying certification badges or
 - Investment Research
 - Capital Markets
 
-**Credential status convention:**
-
-`Completed` · `In Progress` · `Preparing` · `Planned`
-
-No planned credential is presented as a completed professional designation.
 
 ---
 
@@ -728,7 +628,6 @@ No planned credential is presented as a completed professional designation.
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ujjwal20020823&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=94A3B8" alt="GitHub contribution streak"/></a>
 </p>
 
-> GitHub analytics are dynamic and reflect repository activity. No manually reported follower, star, contribution or performance numbers are fabricated.
 
 <div align="center">
 

@@ -1,62 +1,41 @@
-<!-- =========================================================
-     UJJWAL SHRESTHA — PROFESSIONAL GITHUB PROFILE README
-     Finance × Data × Markets × Technology
-========================================================= -->
-
 <div align="center">
 
 <a href="https://github.com/Ujjwal20020823">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1020,50:312E81,100:4C1D95&text=UJJWAL%20SHRESTHA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Finance%20×%20Data%20×%20Markets%20×%20Technology&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ujjwal%20Shrestha&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Finance%20%C3%97%20Data%20%C3%97%20Markets&descAlignY=60&descSize=20&color=0B1020&animation=fadeIn" width="100%" />
 </a>
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Portfolio+Analytics;Quantitative+Finance;Financial+Modeling;Investment+Research;Financial+Data+Analytics;Frontier+Market+Intelligence" alt="Finance and analytics focus"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Portfolio+Analytics;Quantitative+Finance;Financial+Modeling;Investment+Research;Financial+Data+Analytics;Frontier+Market+Intelligence" alt="Finance and investment research focus" />
 </a>
 
 <br><br>
 
-<a href="https://www.somtu.edu.np/">
-  <img src="https://img.shields.io/badge/MBA%20Finance%20%26%20Control-312E81?style=for-the-badge&logo=academia&logoColor=white" alt="MBA Finance and Control"/>
-</a>
-<a href="https://www.tu.edu.np/">
-  <img src="https://img.shields.io/badge/Tribhuvan%20University-1E1B4B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Tribhuvan University"/>
-</a>
-<a href="https://github.com/Ujjwal20020823">
-  <img src="https://img.shields.io/badge/Portfolio%20Analytics-4C1D95?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Portfolio Analytics"/>
-</a>
-<a href="https://github.com/Ujjwal20020823">
-  <img src="https://img.shields.io/badge/Quantitative%20Finance-3730A3?style=for-the-badge&logo=python&logoColor=white" alt="Quantitative Finance"/>
-</a>
-<a href="https://github.com/Ujjwal20020823">
-  <img src="https://img.shields.io/badge/Finance%20Research-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Finance Research"/>
-</a>
-<a href="https://www.google.com/maps/search/Nepal">
-  <img src="https://img.shields.io/badge/Nepal-172554?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Nepal"/>
-</a>
+<img src="https://img.shields.io/badge/MBA%20Finance%20%26%20Control-0B1020?style=for-the-badge&logo=academia&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Tribhuvan%20University-0B1020?style=for-the-badge&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Portfolio%20Analytics-0B1020?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Quantitative%20Finance-0B1020?style=for-the-badge&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Investment%20Research-0B1020?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Nepal-0B1020?style=for-the-badge&logoColor=8B5CF6" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/ujjwal-shrestha-01np/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Ujjwal20020823">
-  <img src="https://img.shields.io/badge/GitHub-Research%20Lab-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Research%20Lab-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://substack.com/@shrestha25np">
-  <img src="https://img.shields.io/badge/Substack-Financial%20Writing-4C1D95?style=for-the-badge&logo=substack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Substack-Financial%20Thinking-312E81?style=for-the-badge&logo=substack&logoColor=white" />
 </a>
 
 <br><br>
 
-<strong>MBA Finance & Control Candidate | Aspiring Portfolio Analyst | Quantitative Finance & Financial Data Analytics</strong>
-
-<br>
-
-<sub>
-Building analytical models, investment research frameworks, financial tools and decision-support systems for emerging and frontier markets.
-</sub>
+<img src="https://komarev.com/ghpvc/?username=Ujjwal20020823&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Ujjwal20020823?label=FOLLOWERS&style=flat-square&color=4C1D95" />
+<img src="https://img.shields.io/github/stars/Ujjwal20020823?label=STARS&style=flat-square&color=6D28D9" />
 
 </div>
 
@@ -64,53 +43,37 @@ Building analytical models, investment research frameworks, financial tools and 
 
 # About Me
 
-I am an **MBA Finance & Control candidate at Tribhuvan University School of Management (SOMTU)** developing toward a career at the intersection of **investment management, portfolio analytics, quantitative finance, financial modeling and financial data analytics**.
+I am an **MBA Finance & Control candidate at Tribhuvan University School of Management (SOMTU)** building toward a career at the intersection of **investment management, portfolio analytics, quantitative finance, financial modeling, and technology-enabled financial research**.
 
-I use GitHub as a **finance laboratory and professional evidence base** — a place to develop models, analytical frameworks, research tools and reproducible approaches to financial decision-making.
+My GitHub is designed as a **finance research laboratory and professional evidence base** rather than a collection of generic coding exercises.
 
-My work sits at the intersection of:
-
-**Finance + Markets + Data + Technology**
-
-I am particularly interested in transforming financial theory into practical analytical systems covering:
+My work focuses on translating financial theory and market data into practical analytical frameworks:
 
 - Portfolio construction and asset allocation
-- Risk-adjusted return analysis
 - Financial modeling and valuation
+- Risk-adjusted investment analysis
 - Equity and capital-market research
 - Quantitative investment research
-- Behavioral finance
 - Financial data analytics
+- Behavioral finance
 - Market-regime analysis
 - Emerging and frontier markets
 - Nepal Stock Exchange (NEPSE) research
 - Climate and disaster-related financial risk
-- Market microstructure
-- Financial technology
+- Financial technology and decision-support systems
 
-The objective is not to present myself as a finished institutional investor or quantitative professional.
+The broader direction is:
 
-Instead, I am building the analytical foundation required to become one.
+**Finance + Markets + Data + Technology + Research**
 
-### What I Build
-
-| Financial Problem | Analytical Direction |
-|---|---|
-| Portfolio allocation | Optimization, covariance and risk analysis |
-| Valuation | DCF, WACC, CAPM and scenario frameworks |
-| Investment research | Structured market and company analysis |
-| Risk | Exposure, sensitivity and stress frameworks |
-| Market behavior | Regime, momentum and behavioral analysis |
-| Financial data | Cleaning, transformation, analysis and visualization |
-| Decision support | Dashboards, models and research pipelines |
-| Frontier markets | Market-specific financial intelligence |
+> **Career Direction:** Investment / Portfolio Analytics → Quantitative Finance → Financial Modeling & Valuation → Investment Research → International Finance
 
 ### Open To
 
 - Investment Research
 - Portfolio Analytics
 - Financial Data Analytics
-- Quantitative Finance internships
+- Quantitative Finance internships and projects
 - Equity Research
 - Financial Modeling
 - Corporate Finance
@@ -122,69 +85,58 @@ Instead, I am building the analytical foundation required to become one.
 
 # Finance & Analytics Stack
 
-## Financial Analysis
+### Financial Analysis
 
-| Capability | Position |
-|---|---|
-| Financial Modeling | Applied |
-| Valuation | Applied |
-| DCF | Applied / Learning |
-| WACC | Applied / Learning |
-| CAPM | Applied |
-| Portfolio Theory | Applied |
-| Asset Allocation | Applied |
-| Risk Analysis | Applied |
-| Technical Analysis | Research |
-| Fundamental Analysis | Research |
-| Behavioral Finance | Research |
+<img src="https://img.shields.io/badge/Financial%20Modeling-Applied-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Valuation-Applied-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/DCF-Working%20Knowledge-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/WACC-Working%20Knowledge-5B21B6?style=flat-square" />
+<img src="https://img.shields.io/badge/CAPM-Applied-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Portfolio%20Theory-Applied-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Asset%20Allocation-Applied-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Risk%20Analysis-Applied-5B21B6?style=flat-square" />
+<img src="https://img.shields.io/badge/Technical%20Analysis-Research-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Fundamental%20Analysis-Applied-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Behavioral%20Finance-Research-6D28D9?style=flat-square" />
 
-## Quantitative Finance
+### Quantitative Finance
 
-| Capability | Position |
-|---|---|
-| Portfolio Optimization | Applied |
-| Black-Litterman | Research / Development |
-| Risk Budgeting | Learning |
-| Regression | Applied / Research |
-| Time-Series Analysis | Learning / Research |
-| Markov Models | Exploring |
-| Threshold Models | Exploring |
-| Market Regime Analysis | Research |
-| Monte Carlo Concepts | Learning |
-| Factor Analysis | Learning / Research |
+<img src="https://img.shields.io/badge/Portfolio%20Optimization-Applied-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Black--Litterman-Learning-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Risk%20Budgeting-Learning-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Regression-Applied-5B21B6?style=flat-square" />
+<img src="https://img.shields.io/badge/Time--Series%20Analysis-Learning-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Markov%20Models-Learning-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Threshold%20Models-Research-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Market%20Regimes-Research-5B21B6?style=flat-square" />
+<img src="https://img.shields.io/badge/Monte%20Carlo-Concepts-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Factor%20Analysis-Learning-7C3AED?style=flat-square" />
 
-## Data & Programming
+### Data & Programming
 
-<p align="center">
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,jupyter,sql,git,github" alt="Python Pandas NumPy Matplotlib Jupyter SQL Git GitHub"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,jupyter,sql,git,github" />
 </p>
 
-**Primary direction:** Python for financial data analysis, quantitative research and financial automation.
+**Primary orientation:** Python for Finance · Financial Data Analysis · Data Cleaning · Return Analysis · Risk Metrics · Portfolio Analytics · Visualization
 
-## Financial Productivity & BI
+### Financial Productivity & BI
 
-- Microsoft Excel — Applied
-- Google Sheets — Applied
-- Power BI — Learning / Applied
-- SPSS — Research
-- EViews — Research
-- Mendeley — Research workflow
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Applied-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-Applied-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=flat-square&logo=powerbi&logoColor=111827" />
+<img src="https://img.shields.io/badge/SPSS-Applied-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/EViews-Working%20Knowledge-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Mendeley-Research-8B5CF6?style=flat-square" />
 
-## Markets
+### Markets
 
-- Nepal Stock Exchange
-- Equity Markets
-- Fixed Income
-- Portfolio Analytics
-- Emerging Markets
-- Frontier Markets
-- Capital Markets Research
-
-> **Positioning principle:** technology supports the finance identity. The objective is not to become a generic software developer, but to build better financial analysis through technology.
+<img src="https://img.shields.io/badge/NEPSE-Research-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Equity%20Markets-Applied-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Fixed%20Income-Learning-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Portfolio%20Analytics-Applied-5B21B6?style=flat-square" />
+<img src="https://img.shields.io/badge/Emerging%20Markets-Research-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontier%20Markets-Research-7C3AED?style=flat-square" />
 
 ---
 
@@ -192,59 +144,55 @@ Instead, I am building the analytical foundation required to become one.
 
 | Domain | Current Level | Applied Work | Direction |
 |---|---|---|---|
-| Portfolio Analytics | Applied | Portfolio construction and risk analysis | Institutional portfolio analytics |
-| Financial Modeling | Applied | Valuation and decision-support models | Advanced financial engineering |
-| Equity Valuation | Applied / Research | Fundamental and scenario-based analysis | Institutional equity research |
-| Quantitative Research | Learning / Research | Financial data and model development | Quantitative investment research |
-| Risk Analytics | Applied / Learning | Exposure, sensitivity and stress concepts | Portfolio risk systems |
-| Behavioral Finance | Research | Investor behavior and market decisions | Behavioral investment research |
-| Time-Series Analysis | Learning / Research | Market and indicator analysis | Quantitative forecasting |
-| Market Regime Analysis | Research | Regime and cycle concepts | Systematic market research |
-| Financial Data Analytics | Applied | Data cleaning, analysis and visualization | Automated financial research |
-| Investment Research | Applied / Research | Market and company analysis | Professional investment research |
-| Emerging / Frontier Markets | Research | NEPSE and Nepalese capital-market research | International frontier-market research |
-| Python for Finance | Learning / Applied | Financial data workflows | Financial data engineering |
+| **Portfolio Analytics** | Applied | Portfolio construction, risk-return analysis, allocation frameworks | Institutional portfolio analytics |
+| **Financial Modeling** | Applied | Valuation, scenario analysis, financial decision models | Integrated financial modeling |
+| **Equity Valuation** | Applied | DCF, WACC, CAPM and market-based analysis | Research-grade valuation |
+| **Quantitative Research** | Learning / Applied | Data-driven market and investment frameworks | Quantitative investment research |
+| **Risk Analytics** | Applied | Portfolio risk, stress scenarios, financial vulnerability | Institutional risk systems |
+| **Behavioral Finance** | Research | Investor behavior and decision-making research | Behavioral investment analytics |
+| **Time-Series Analysis** | Learning | Market data and indicator analysis | Advanced financial forecasting |
+| **Market Regime Analysis** | Research | Regime, momentum, volatility and threshold concepts | Probabilistic regime modeling |
+| **Financial Data Analytics** | Applied | Data cleaning, returns, metrics and visualization | Automated financial research |
+| **Investment Research** | Applied | Equity, capital-market and thematic research | Institutional research |
+| **Emerging / Frontier Markets** | Research | NEPSE and frontier-market frameworks | International frontier-market research |
+| **Python for Finance** | Learning / Applied | Financial data processing and analytics | Financial data engineering |
 
 ---
 
 # Featured Finance Projects
 
-The projects below are structured as **financial research and analytics frameworks**, rather than conventional programming exercises.
+The projects below are structured as **financial research and decision-support frameworks** rather than ordinary programming exercises.
 
 ---
 
-## 1. Portfolio Construction & Optimization Engine
-
 <details>
-<summary><strong>Portfolio Construction & Optimization Engine</strong></summary>
+<summary><strong>01 · Portfolio Construction & Optimization Engine</strong></summary>
 
 ### Project Thesis
 
-A portfolio-construction framework designed to translate asset-level return expectations and covariance/risk information into structured allocation decisions.
+A Google Sheets-based portfolio optimization framework designed to examine **expected returns, covariance, portfolio risk, constraints, and asset allocation**.
 
-The framework approaches portfolio construction as a **capital-allocation problem**, rather than simply selecting securities based on expected price appreciation.
+### Why It Matters
+
+Portfolio construction is fundamentally a capital-allocation problem: the objective is not simply to identify attractive securities, but to determine how capital should be distributed while considering expected return, diversification, risk, and constraints.
 
 | Dimension | Analysis |
 |---|---|
-| Objective | Construct and evaluate diversified portfolios |
-| Financial Framework | Modern Portfolio Theory / portfolio optimization |
-| Data | Asset returns, expected returns and covariance |
-| Methodology | Return, volatility, correlation and allocation analysis |
-| Model | Portfolio optimization framework |
-| Risk Consideration | Volatility, covariance, concentration and diversification |
-| Output | Portfolio weights, expected return and risk measures |
-| Technology | Google Sheets / Excel |
-| Scale | Multi-asset portfolio framework |
-| Status | Applied / Iterative |
-| Repository | Repository link intentionally omitted until a verified project repository is available |
+| **Objective** | Develop a structured framework for portfolio construction and allocation |
+| **Financial Framework** | Modern Portfolio Theory, expected return, covariance and diversification |
+| **Data** | Historical market data and portfolio inputs |
+| **Methodology** | Return estimation, covariance analysis, portfolio risk analysis and allocation |
+| **Model** | Portfolio optimization framework |
+| **Risk Consideration** | Volatility, correlation, concentration and allocation constraints |
+| **Output** | Portfolio weights, expected return and risk-oriented allocation insights |
+| **Technology** | Google Sheets / Excel |
+| **Scale** | Multi-asset portfolio framework |
+| **Status** | Applied / Developing |
+| **Repository** | Repository link intentionally omitted until verified |
 
 ### Professional Interpretation
 
-The framework addresses a central investment-management question:
-
-> **How should capital be allocated across assets when return expectations and risk interact?**
-
-It provides a foundation for comparing portfolios rather than evaluating securities in isolation.
+The framework approaches portfolio construction as a **decision-support problem**, connecting asset-level analysis with portfolio-level risk and allocation.
 
 ### Future Institutional Upgrade
 
@@ -252,366 +200,326 @@ Potential evolution toward:
 
 - Institutional portfolio analytics
 - Constraint-based optimization
-- Multi-period asset allocation
 - Risk budgeting
-- Factor exposure analysis
-- Scenario engines
-- Portfolio monitoring dashboards
-- Automated research pipelines
+- Efficient-frontier visualization
+- Automated portfolio monitoring
+- Portfolio reporting dashboards
 
 </details>
 
 ---
 
-## 2. Black-Litterman Portfolio Dashboard
-
 <details>
-<summary><strong>Black-Litterman Portfolio Dashboard</strong></summary>
+<summary><strong>02 · Black-Litterman Portfolio Dashboard</strong></summary>
 
 ### Project Thesis
 
-A portfolio-allocation framework combining **market equilibrium expectations with investor views and confidence levels** to produce more structured expected-return estimates.
+A portfolio analytics framework combining **market equilibrium returns with investor views and confidence levels** to develop more structured expected-return estimates.
+
+### Why It Matters
+
+Traditional expected-return estimates can be highly sensitive to subjective assumptions. Black-Litterman provides a framework for combining market equilibrium information with investor views in a disciplined manner.
 
 | Dimension | Analysis |
 |---|---|
-| Objective | Improve portfolio allocation through equilibrium returns and investor views |
-| Financial Framework | Black-Litterman |
-| Data | Market information, equilibrium assumptions and investor views |
-| Methodology | Equilibrium returns + views + confidence |
-| Model | Black-Litterman expected-return framework |
-| Risk Consideration | Covariance, uncertainty and portfolio concentration |
-| Output | Adjusted expected returns and optimized allocations |
-| Technology | Spreadsheet / analytical dashboard |
-| Scale | Portfolio-level |
-| Status | Research / Development |
-| Repository | Repository link intentionally omitted until a verified project repository is available |
-
-### Core Components
-
-- Market equilibrium returns
-- Investor views
-- Confidence levels
-- Risk aversion
-- Expected returns
-- Portfolio optimization
-- Frontier-market application
-- NEPSE-oriented research potential
+| **Objective** | Develop a structured view-based portfolio allocation framework |
+| **Financial Framework** | Black-Litterman model |
+| **Data** | Market capitalization, historical returns, asset relationships and investor views |
+| **Methodology** | Equilibrium returns, views, confidence and posterior expected returns |
+| **Model** | Black-Litterman expected-return framework + portfolio optimization |
+| **Risk Consideration** | Estimation risk, view confidence, volatility and concentration |
+| **Output** | Adjusted expected returns and portfolio allocation insights |
+| **Technology** | Financial modeling / dashboard framework |
+| **Scale** | Multi-asset / equity portfolio research |
+| **Status** | Developing / Research |
+| **Repository** | Repository link intentionally omitted until verified |
 
 ### Professional Interpretation
 
-The Black-Litterman framework is relevant because it separates **market-implied expectations** from **subjective investor views**, creating a structured bridge between quantitative portfolio construction and investment judgment.
+The project explores how an investment analyst can translate **market-implied information and differentiated investment views** into a more disciplined portfolio-construction process.
+
+A key research direction is its application to **NEPSE and frontier-market conditions**, where estimation uncertainty and market structure can materially affect portfolio decisions.
 
 ### Future Institutional Upgrade
 
-- Multi-asset allocation
-- Automated market-implied return estimation
-- View confidence calibration
-- Portfolio constraints
-- Factor-aware allocation
-- Risk decomposition
-- Portfolio monitoring systems
+Potential evolution toward:
+
+- Institutional portfolio dashboards
+- Automated view integration
+- Scenario-based allocation
+- Risk-budgeting systems
+- Frontier-market portfolio research
+- Investment committee decision support
 
 </details>
 
 ---
 
-## 3. Post-Disaster Financial Risk & Valuation Engine
-
 <details>
-<summary><strong>Post-Disaster Financial Risk & Valuation Engine</strong></summary>
+<summary><strong>03 · Post-Disaster Financial Risk & Valuation Engine</strong></summary>
 
 ### Project Thesis
 
-A scenario-based framework for examining how major disasters or physical shocks can transmit into financial-company performance, asset quality, risk and market valuation.
+A financial risk and valuation framework designed to examine how major disasters or climate-related shocks can transmit through **financial institutions, assets, revenues, credit quality and market valuation**.
 
-The framework is particularly relevant to **financial firms whose balance sheets and earnings can be indirectly exposed to physical and economic disruption**.
+### Why It Matters
+
+Disaster risk is not only a physical-risk problem. It can become a financial-risk problem through impaired assets, reduced revenue, credit deterioration, insurance exposure, liquidity pressure and changes in valuation assumptions.
 
 | Dimension | Analysis |
 |---|---|
-| Objective | Model financial vulnerability following major shocks |
-| Financial Framework | Scenario analysis + valuation stress testing |
-| Data | Exposure, financial statements and market data |
-| Methodology | Exposure mapping and scenario-based stress |
-| Model | Financial vulnerability and valuation engine |
-| Risk Consideration | Credit, impairment, revenue and asset-value risk |
-| Output | Scenario impacts on financial performance and valuation |
-| Technology | Excel / Python / analytical models |
-| Scale | Financial-firm level |
-| Status | Research Framework |
-| Repository | Repository link intentionally omitted until a verified project repository is available |
+| **Objective** | Estimate financial and valuation impacts of disaster-related shocks |
+| **Financial Framework** | Financial vulnerability, stress testing and valuation |
+| **Data** | Sector exposure, financial statements, asset/revenue assumptions and market data |
+| **Methodology** | Exposure mapping, scenario analysis and financial-statement impact assessment |
+| **Model** | Exposure matrix + financial stress + valuation framework |
+| **Risk Consideration** | Credit risk, impairment, revenue loss, asset damage and market repricing |
+| **Output** | Financial vulnerability and valuation-impact scenarios |
+| **Technology** | Financial modeling / analytical framework |
+| **Scale** | Banks, insurance, microfinance and hydropower-related exposure |
+| **Status** | Research / Developing |
+| **Repository** | Repository link intentionally omitted until verified |
 
-### Potential Sector Coverage
+### Professional Interpretation
 
-- Commercial banks
-- Insurance companies
-- Microfinance institutions
-- Hydropower-related financial exposure
+The framework connects **physical shocks with financial transmission mechanisms**, helping analyze how disaster exposure can influence earnings, asset quality, credit risk and valuation.
 
-### Framework Components
+Key components include:
 
 - Exposure matrix
 - Financial vulnerability
 - Revenue / asset impact
-- Credit risk
+- Credit-risk implications
 - Impairment assumptions
 - DCF stress
 - WACC / beta stress
 - Scenario analysis
 - Market valuation impact
 
-### Professional Interpretation
-
-The objective is to move from a generic statement such as *"a disaster may affect markets"* toward a structured financial question:
-
-**How might a physical shock propagate through financial statements, risk assumptions and valuation?**
-
 ### Future Institutional Upgrade
 
-- Climate-risk analytics
-- Physical-risk scoring
-- Portfolio exposure mapping
-- Stress-testing dashboards
-- Scenario probability distributions
-- Climate-adjusted valuation
-- Institutional risk reporting
+Potential evolution toward:
+
+- Climate-financial-risk dashboards
+- Stress-testing engines
+- Bank and insurer vulnerability analysis
+- Scenario-based valuation systems
+- Portfolio climate-risk analytics
+- Financial stability research
 
 </details>
 
 ---
 
-## 4. NEPSE Technical Indicator Research
-
 <details>
-<summary><strong>NEPSE Technical Indicator Research</strong></summary>
+<summary><strong>04 · NEPSE Technical Indicator Research</strong></summary>
 
 ### Project Thesis
 
-A research-oriented framework for evaluating technical indicators and their relationship with historical market behavior in the Nepal Stock Exchange.
+A research-oriented framework for evaluating **price, volume, moving averages, momentum, support/resistance and technical signals** within the Nepal Stock Exchange.
 
-This project is designed as **analytical research rather than trading advice**.
+### Why It Matters
+
+Technical indicators can generate signals, but their usefulness depends on market structure, regime, transaction costs, liquidity and statistical reliability. The objective is therefore to **evaluate signals rather than assume that they predict markets**.
 
 | Dimension | Analysis |
 |---|---|
-| Objective | Evaluate historical technical signals |
-| Financial Framework | Technical analysis / empirical signal evaluation |
-| Data | Price and volume data |
-| Methodology | Indicator construction and historical signal comparison |
-| Model | Technical-indicator research framework |
-| Risk Consideration | False signals, regime changes and overfitting |
-| Output | Signal characteristics and historical evaluation |
-| Technology | Python / spreadsheets |
-| Scale | NEPSE securities / index |
-| Status | Research / Development |
-| Repository | Repository link intentionally omitted until a verified project repository is available |
-
-### Research Variables
-
-- Price
-- Volume
-- Moving averages
-- Momentum indicators
-- Support / resistance
-- Signal evaluation
-- Backtesting concepts
-- Accuracy
-- Limitations
+| **Objective** | Study technical indicators and their analytical usefulness |
+| **Financial Framework** | Technical analysis and empirical signal evaluation |
+| **Data** | NEPSE price and volume data |
+| **Methodology** | Indicator construction, signal classification and historical evaluation |
+| **Model** | Moving averages, momentum and support/resistance frameworks |
+| **Risk Consideration** | False signals, transaction costs, liquidity and regime dependence |
+| **Output** | Indicator research, signal behavior and analytical limitations |
+| **Technology** | Python / spreadsheets / financial data analysis |
+| **Scale** | NEPSE equity-market research |
+| **Status** | Research / Developing |
+| **Repository** | Repository link intentionally omitted until verified |
 
 ### Professional Interpretation
 
-The focus is not on claiming that technical indicators predict markets reliably.
-
-The focus is on asking:
-
-> **Under what market conditions do particular signals appear informative, and where do they fail?**
+This project is designed as **market research, not trading advice**. The focus is on understanding whether indicators provide useful information under specific market conditions and how their limitations affect interpretation.
 
 ### Future Institutional Upgrade
 
-- Systematic signal testing
-- Out-of-sample validation
-- Walk-forward analysis
-- Regime-conditioned signals
-- Transaction-cost adjustment
-- Robustness testing
-- Automated research pipelines
+Potential evolution toward:
+
+- Systematic signal research
+- Backtesting infrastructure
+- Regime-conditioned indicators
+- Transaction-cost modeling
+- Signal-quality dashboards
+- Quantitative market research pipelines
 
 </details>
 
 ---
 
-## 5. Market Regime & Bubble Cycle Analytics
-
 <details>
-<summary><strong>Market Regime & Bubble Cycle Analytics</strong></summary>
+<summary><strong>05 · Market Regime & Bubble Cycle Analytics</strong></summary>
 
 ### Project Thesis
 
-A quantitative research framework for examining whether market behavior changes across distinct regimes such as accumulation, momentum, high-volatility and correction periods.
+A quantitative research framework examining how markets move through different **regimes of momentum, volatility, investor behavior and market conditions**.
+
+### Why It Matters
+
+Market behavior is rarely stationary. A signal that appears informative during a low-volatility trend may behave differently during a speculative bubble, correction or crisis.
 
 | Dimension | Analysis |
 |---|---|
-| Objective | Identify and analyze changing market regimes |
-| Financial Framework | Regime-switching / behavioral market analysis |
-| Data | Returns, volatility, momentum and market indicators |
-| Methodology | Regime identification and transition analysis |
-| Model | Markov / threshold-model concepts |
-| Risk Consideration | Regime instability and model uncertainty |
-| Output | Regime classification and transition probabilities |
-| Technology | Python / statistical tools |
-| Scale | Market / security level |
-| Status | Research / Exploration |
-| Repository | Repository link intentionally omitted until a verified project repository is available |
-
-### Research Components
-
-- Market regimes
-- Momentum
-- Volatility
-- Behavioral indicators
-- Markov concepts
-- Threshold models
-- Transition probabilities
-- Investor behavior
+| **Objective** | Identify and analyze changing market regimes |
+| **Financial Framework** | Regime-switching concepts, behavioral finance and market-cycle analysis |
+| **Data** | Market prices, returns, volatility and behavioral indicators |
+| **Methodology** | Regime classification, threshold analysis and transition analysis |
+| **Model** | Markov / regime concepts and threshold models |
+| **Risk Consideration** | Regime uncertainty, structural breaks and model dependence |
+| **Output** | Market-regime classifications and transition insights |
+| **Technology** | Python / quantitative research tools |
+| **Scale** | Market-level research |
+| **Status** | Research / Developing |
+| **Repository** | Repository link intentionally omitted until verified |
 
 ### Professional Interpretation
 
-Markets do not necessarily behave according to one stable data-generating process.
-
-This framework explores whether **market dynamics, investor behavior and risk characteristics change across regimes**.
+The framework approaches bubbles and market cycles as **state-dependent phenomena**, rather than assuming that one model explains every market environment.
 
 ### Future Institutional Upgrade
 
-- Hidden Markov Models
-- Regime-conditioned portfolio allocation
-- Volatility forecasting
-- Bubble diagnostics
-- Macro-financial regime models
-- Probabilistic market-state dashboards
+Potential evolution toward:
+
+- Probabilistic regime detection
+- Transition-probability models
+- Early-warning indicators
+- Volatility-regime dashboards
+- Behavioral market analytics
+- Systematic investment research
 
 </details>
 
 ---
 
-## 6. Financial Averaging vs Fixed Deposit Model
-
 <details>
-<summary><strong>Financial Averaging vs Fixed Deposit Model</strong></summary>
+<summary><strong>06 · Financial Averaging vs Fixed Deposit Model</strong></summary>
 
 ### Project Thesis
 
-A capital-allocation model comparing periodic equity averaging with fixed-income alternatives while incorporating transaction costs, time value of money and opportunity cost.
+A capital-allocation decision model comparing periodic market investment / averaging with fixed-deposit alternatives while incorporating **transaction costs, time value of money, hurdle rates and opportunity cost**.
+
+### Why It Matters
+
+The decision to invest additional capital should not be evaluated only through nominal market returns. The relevant comparison is the **risk-adjusted opportunity cost of capital**.
 
 | Dimension | Analysis |
 |---|---|
-| Objective | Compare alternative capital-allocation strategies |
-| Financial Framework | Time value of money + hurdle-rate analysis |
-| Data | Investment amounts, returns and transaction costs |
-| Methodology | Scenario-based comparison |
-| Model | Averaging vs fixed-deposit decision model |
-| Risk Consideration | Equity volatility, liquidity and opportunity cost |
-| Output | Scenario-adjusted capital-allocation comparison |
-| Technology | Excel / Google Sheets |
-| Scale | Individual strategy / scenario level |
-| Status | Applied Financial Modeling |
-| Repository | Repository link intentionally omitted until a verified project repository is available |
-
-### Key Variables
-
-- Averaging strategy
-- Transaction costs
-- Time value of money
-- Hurdle rate
-- Opportunity cost
-- NEPSE transaction charges
-- Scenario comparison
+| **Objective** | Compare alternative uses of investment capital |
+| **Financial Framework** | Time value of money, hurdle rate and opportunity cost |
+| **Data** | Investment scenarios, deposit rates, market returns and transaction costs |
+| **Methodology** | Scenario-based return and capital-allocation comparison |
+| **Model** | Averaging vs fixed-deposit decision framework |
+| **Risk Consideration** | Market volatility, liquidity, transaction costs and downside risk |
+| **Output** | Comparative capital-allocation scenarios |
+| **Technology** | Excel / Google Sheets |
+| **Scale** | Individual-investment decision framework |
+| **Status** | Applied / Developing |
+| **Repository** | Repository link intentionally omitted until verified |
 
 ### Professional Interpretation
 
-The model reframes averaging as a **capital-allocation decision**, not simply an investment habit.
-
-The relevant question becomes:
-
-> **Does deploying capital gradually create sufficient expected benefit to compensate for transaction costs, opportunity cost and alternative returns?**
+The model reframes averaging as a **capital-allocation decision**, considering whether additional market exposure provides sufficient expected compensation relative to lower-risk alternatives.
 
 ### Future Institutional Upgrade
 
-- Probabilistic return scenarios
-- Inflation-adjusted analysis
+Potential evolution toward:
+
+- Dynamic capital-allocation models
 - Risk-adjusted hurdle rates
-- Monte Carlo simulation
-- Dynamic contribution schedules
-- Portfolio-level capital allocation
+- Transaction-cost optimization
+- Scenario simulation
+- Goal-based investment planning
 
 </details>
 
 ---
 
-## 7. Financial Calculator & Valuation Toolkit
-
 <details>
-<summary><strong>Financial Calculator & Valuation Toolkit</strong></summary>
+<summary><strong>07 · Financial Calculator & Valuation Toolkit</strong></summary>
 
 ### Project Thesis
 
-A supporting collection of finance-oriented calculators designed to reduce repetitive analytical work and provide consistent financial-modeling inputs.
+A supporting collection of financial calculation and valuation utilities intended to make common finance calculations more structured, transparent and reusable.
 
 | Dimension | Analysis |
 |---|---|
-| Objective | Standardize recurring financial calculations |
-| Financial Framework | Financial mathematics / valuation |
-| Data | User-defined financial assumptions |
-| Methodology | Formula-driven calculation |
-| Model | Financial calculator toolkit |
-| Risk Consideration | Input sensitivity and assumption quality |
-| Output | Reproducible financial calculations |
-| Technology | Excel / Google Sheets / Python |
-| Scale | Supporting analytical tool |
-| Status | Supporting Project |
-| Repository | Repository link intentionally omitted until a verified project repository is available |
+| **Objective** | Build reusable finance calculation tools |
+| **Financial Framework** | Valuation, returns, risk and corporate-finance concepts |
+| **Data** | User-defined financial inputs |
+| **Methodology** | Formula-based financial calculations |
+| **Model** | Modular finance calculators |
+| **Risk Consideration** | Input sensitivity and assumption quality |
+| **Output** | Reusable financial-analysis outputs |
+| **Technology** | Python / Excel / Google Sheets |
+| **Scale** | Supporting toolkit |
+| **Status** | Developing |
+| **Repository** | Repository link intentionally omitted until verified |
 
 ### Professional Interpretation
 
-The toolkit supports larger financial models by making recurring calculations more transparent, reproducible and less error-prone.
+This project supports the broader objective of turning finance concepts into **reusable analytical infrastructure**.
+
+### Future Institutional Upgrade
+
+Potential evolution toward:
+
+- Integrated valuation toolkit
+- Scenario analysis
+- Sensitivity dashboards
+- Financial-model automation
+- Research workflow integration
 
 </details>
 
 ---
 
-## 8. Python-Based Financial Market Analytics
-
 <details>
-<summary><strong>Python-Based Financial Market Analytics</strong></summary>
+<summary><strong>08 · Python-Based Financial Market Analytics</strong></summary>
 
 ### Project Thesis
 
-A developing Python-based research environment for financial-data ingestion, transformation, analysis and visualization.
+An evolving Python-based financial analytics environment focused on building the technical foundation for **financial data research and portfolio analytics**.
+
+### Why It Matters
+
+Modern investment research increasingly requires the ability to move from raw market data to reproducible analytical outputs.
 
 | Dimension | Analysis |
 |---|---|
-| Objective | Build a reusable financial-data research workflow |
-| Financial Framework | Financial data analytics |
-| Data | Market and financial datasets |
-| Methodology | Ingestion, cleaning, transformation and analysis |
-| Model | Modular financial analytics pipeline |
-| Risk Consideration | Data quality, missing observations and methodological bias |
-| Output | Research datasets, metrics and visualizations |
-| Technology | Python, Pandas, NumPy, Matplotlib, Jupyter |
-| Scale | Security / market / portfolio level |
-| Status | In Development |
-| Repository | Repository link intentionally omitted until a verified project repository is available |
+| **Objective** | Develop reusable Python workflows for financial market analysis |
+| **Financial Framework** | Returns, risk, portfolio analytics and market research |
+| **Data** | Financial market datasets |
+| **Methodology** | Data ingestion, cleaning, transformation and analysis |
+| **Model** | Modular financial analytics workflows |
+| **Risk Consideration** | Data quality, missing observations, estimation risk and model limitations |
+| **Output** | Research-ready financial datasets, metrics and visualizations |
+| **Technology** | Python, Pandas, NumPy, Matplotlib, Jupyter |
+| **Scale** | Financial market research |
+| **Status** | Learning / Building |
+| **Repository** | Repository link intentionally omitted until verified |
 
-### Development Direction
+### Professional Interpretation
 
-- Data ingestion
-- Financial data cleaning
-- Return calculation
-- Risk metrics
+The long-term objective is to build the analytical infrastructure required to support **systematic investment research rather than isolated scripts**.
+
+### Future Institutional Upgrade
+
+Potential evolution toward:
+
+- Automated financial research
+- Market-data pipelines
 - Portfolio analytics
-- Visualization
-- Automated research
-
-### Professional Interpretation
-
-The long-term objective is to develop technology as an **analytical infrastructure layer for finance**, rather than treating programming as an independent technical identity.
+- Risk dashboards
+- Reproducible research workflows
+- Quantitative investment systems
 
 </details>
 
@@ -619,46 +527,44 @@ The long-term objective is to develop technology as an **analytical infrastructu
 
 # Research & Publications / Financial Thinking
 
-My GitHub is intended to complement financial writing and research by providing a place where analytical ideas can move from **concept → model → evidence → interpretation**.
+My GitHub is intended to complement a broader research practice spanning **academic research and applied financial intelligence**.
 
-### Research Themes
+### Academic Research
+
+Research interests include:
 
 - Behavioral Finance
 - AI-assisted investing and investor behavior
 - Market efficiency
 - Adaptive Market Hypothesis
-- Technical indicator evaluation
-- Market regimes
-- Frontier-market investing
-- Climate-related financial risk
-- Financial vulnerability
 - Investment decision-making
+- Financial vulnerability
+- Climate-related financial risk
 - Nepalese capital markets
-- Portfolio analytics
-- Quantitative investment research
-
-### Academic Research
-
-Academic research focuses on structured empirical questions, theory, methodology, statistical analysis and evidence.
 
 ### Applied Financial Intelligence
 
-Applied financial intelligence focuses on turning financial data and research into:
+Practical research directions include:
 
-- Decision frameworks
-- Valuation models
-- Portfolio tools
-- Risk dashboards
-- Market-analysis systems
-- Investment research workflows
+- Technical indicator evaluation
+- Market regimes and bubble cycles
+- Frontier-market investing
+- Portfolio construction
+- Financial risk analytics
+- Valuation and scenario analysis
+- Capital allocation
+- NEPSE market research
 
 ### Financial Writing
 
-My **Substack** is the professional writing layer of this research journey, focused on financial thinking, market commentary, investment research and emerging/frontier-market perspectives.
+I use **Substack** as a platform for developing professional financial thinking, market commentary, investment research and emerging/frontier-market perspectives.
 
-**Read the research and market perspectives:**
+<a href="https://substack.com/@shrestha25np">
+  <img src="https://img.shields.io/badge/Read%20Financial%20Thinking-Substack-8B5CF6?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
 
-https://substack.com/@shrestha25np
+> **Academic Research** develops the theoretical and empirical foundation.  
+> **Applied Financial Intelligence** translates that foundation into analytical frameworks for real financial decisions.
 
 ---
 
@@ -666,11 +572,11 @@ https://substack.com/@shrestha25np
 
 ## SOMTU Finance Club
 
-**Organization:** School of Management, Tribhuvan University
+**Founder / Organizer / Finance Lab Leadership**
 
-**Focus:** Finance education, capital markets, investment research and practical financial analysis
+**School of Management, Tribhuvan University**
 
-### Scope
+Focus areas:
 
 - Finance education
 - Capital-market learning
@@ -682,31 +588,28 @@ https://substack.com/@shrestha25np
 
 ### Selected Initiatives
 
-- SOMTU Pre-Budget Discussion 2083
-- Beyond the Charts Masterclass
-- Finance Lab initiatives
-- Capital-market simulations
-- Financial-analysis workshops
+**SOMTU Pre-Budget Discussion 2083**  
+A finance-focused discussion initiative connecting students with perspectives on Nepal's fiscal and economic environment.
 
-### Professional Development Through Leadership
+**Beyond the Chart(s) Masterclass**  
+A practical capital-market learning initiative designed around company analysis, investment thinking and market understanding.
 
-The Finance Club environment provides an opportunity to connect:
+**Finance Lab Initiatives**  
+Hands-on finance activities focused on financial analysis, market research, modeling and analytical learning.
 
-**Academic Finance → Industry Exposure → Financial Analysis → Investment Thinking**
+**Capital-Market Simulations**  
+Practical exercises designed to strengthen understanding of portfolio decisions, market behavior and investment risk.
 
----
+**Financial-Analysis Workshops**  
+Student-led learning initiatives connecting finance theory with practical analytical frameworks.
 
-## Professional Financial Exposure
+### Professional Exposure
 
-### Insurance Sector
+- Insurance-sector experience
+- Market research / client relationship exposure
+- Financial-services exposure
 
-Exposure to financial-services and insurance-sector activities, contributing to an understanding of financial institutions, client-facing environments and sector-specific financial considerations.
-
-### Market Research / Client Relationship Exposure
-
-Developing practical exposure to research, financial communication and client-oriented financial-service environments.
-
-> Responsibilities and scope are intentionally described conservatively to avoid overstating professional experience.
+These experiences complement my academic and project-based development toward financial analysis and investment research.
 
 ---
 
@@ -714,121 +617,96 @@ Developing practical exposure to research, financial communication and client-or
 
 | Recognition | Details |
 |---|---|
-| Finance Club Leadership | Student-led finance education and capital-market initiatives |
-| Finance Lab Initiatives | Development of practical finance-learning and analytical activities |
-| Finance Events | Organization and coordination of finance-focused programs |
-| Research Projects | Development of financial and investment research frameworks |
-| Financial Modeling | Portfolio, valuation and capital-allocation modeling work |
-| Academic Development | MBA Finance & Control specialization |
-| Capital-Market Engagement | Practical exposure to Nepalese capital-market research |
-
-> Specific awards, rankings and external recognitions are intentionally omitted unless independently verified.
+| **Finance Club Leadership** | Founded and developed a student-led finance initiative focused on financial education, capital markets and practical finance |
+| **Finance Lab Development** | Contributed to building practical finance-learning and analytical activities |
+| **Finance Events** | Organized and supported finance-focused discussions, masterclasses and workshops |
+| **Investment Research** | Developed research-oriented frameworks around portfolio analytics, NEPSE and financial risk |
+| **Financial Modeling** | Built and explored portfolio, valuation, risk and capital-allocation models |
+| **Academic Development** | MBA Finance & Control pathway with focus on investment management, quantitative analysis and financial modeling |
 
 ---
 
 # Certifications & Professional Development
 
-Professional credentials should represent verified achievement rather than planned ambition.
+I intentionally keep this section limited to **verified credentials**.
 
-At present, this profile intentionally avoids displaying certification badges or credentials that have not been explicitly verified as completed.
-
-### Development Areas
+Rather than listing unverified or planned certifications as completed achievements, professional development is reflected through my ongoing work in:
 
 - Quantitative Finance
-- Financial Modeling
 - Portfolio Analytics
+- Financial Modeling
 - Python for Finance
 - Financial Data Analytics
 - Power BI
-- Advanced Excel
 - Investment Research
 - Capital Markets
-
-**Credential status convention:**
-
-`Completed` · `In Progress` · `Preparing` · `Planned`
-
-No planned credential is presented as a completed professional designation.
+- Behavioral Finance
 
 ---
 
 # Financial & Professional Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ujjwal-shrestha-01np/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/Ujjwal20020823">
-<img src="https://img.shields.io/badge/GitHub-Finance%20Research%20Lab-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Finance%20Research%20Lab-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://substack.com/@shrestha25np">
-<img src="https://img.shields.io/badge/Substack-Financial%20Intelligence-4C1D95?style=for-the-badge&logo=substack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Substack-Financial%20Writing-312E81?style=for-the-badge&logo=substack&logoColor=white" />
 </a>
+
+<br><br>
 
 <a href="https://www.instagram.com/ujjwalshrestha25/">
-<img src="https://img.shields.io/badge/Instagram-Personal%20Profile-172554?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Personal%20Profile-4C1D95?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
-</p>
-
-**Professional priority:**
-
-`LinkedIn → GitHub → Substack → Personal/Social`
-
-Instagram is intentionally secondary to the professional research ecosystem.
+</div>
 
 ---
 
 # GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Ujjwal20020823">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ujjwal20020823&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&icon_color=A78BFA&include_all_commits=true&count_private=false" alt="Ujjwal Shrestha GitHub statistics"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Ujjwal20020823&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&icon_color=A78BFA&include_all_commits=true&count_private=false" alt="Ujjwal Shrestha GitHub statistics" width="49%" />
 
-<a href="https://github.com/Ujjwal20020823">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal20020823&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&langs_count=6" alt="Top languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal20020823&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&langs_count=6" alt="Top programming languages" width="49%" />
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=Ujjwal20020823&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=94A3B8" alt="GitHub contribution streak"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Ujjwal20020823&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=94A3B8" alt="GitHub contribution streak" width="80%" />
 
-</p>
+</div>
 
-> GitHub analytics are dynamic and reflect repository activity. No manually reported follower, star, contribution or performance numbers are fabricated.
+> GitHub analytics are dynamic and reflect repository activity.
 
 ---
 
 # GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Ujjwal20020823&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Ujjwal20020823&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" width="90%" />
 
-</p>
+</div>
 
 ---
 
 # Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwal20020823&bg_color=0B1020&color=C7D2FE&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Research%20%26%20Development%20Activity" alt="GitHub contribution activity graph"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwal20020823&bg_color=0B1020&color=C7D2FE&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Research%20%26%20Development%20Activity" alt="GitHub contribution activity graph" width="100%" />
 
-</p>
+</div>
 
 ---
 

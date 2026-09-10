@@ -125,39 +125,6 @@ Instead, I am building the analytical foundation required to become one.
 
 ---
 
-# Finance & Analytics Stack
-
-## Financial Analysis
-
-| Capability | Position |
-|---|---|
-| Financial Modeling | Applied |
-| Valuation | Applied |
-| DCF | Applied / Learning |
-| WACC | Applied / Learning |
-| CAPM | Applied |
-| Portfolio Theory | Applied |
-| Asset Allocation | Applied |
-| Risk Analysis | Applied |
-| Technical Analysis | Research |
-| Fundamental Analysis | Research |
-| Behavioral Finance | Research |
-
-## Quantitative Finance
-
-| Capability | Position |
-|---|---|
-| Portfolio Optimization | Applied |
-| Black-Litterman | Research / Development |
-| Risk Budgeting | Learning |
-| Regression | Applied / Research |
-| Time-Series Analysis | Learning / Research |
-| Markov Models | Exploring |
-| Threshold Models | Exploring |
-| Market Regime Analysis | Research |
-| Monte Carlo Concepts | Learning |
-| Factor Analysis | Learning / Research |
-
 ## Data & Programming
 
 <p align="center">

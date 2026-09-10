@@ -23,15 +23,6 @@
 <a href="https://www.tu.edu.np/">
   <img src="https://img.shields.io/badge/Tribhuvan%20University-1E1B4B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Tribhuvan University"/>
 </a>
-<a href="https://github.com/Ujjwal20020823">
-  <img src="https://img.shields.io/badge/Portfolio%20Analytics-4C1D95?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Portfolio Analytics"/>
-</a>
-<a href="https://github.com/Ujjwal20020823">
-  <img src="https://img.shields.io/badge/Quantitative%20Finance-3730A3?style=for-the-badge&logo=python&logoColor=white" alt="Quantitative Finance"/>
-</a>
-<a href="https://github.com/Ujjwal20020823">
-  <img src="https://img.shields.io/badge/Finance%20Research-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Finance Research"/>
-</a>
 <a href="https://www.google.com/maps/search/Nepal">
   <img src="https://img.shields.io/badge/Nepal-172554?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Nepal"/>
 </a>
@@ -47,6 +38,9 @@
 <a href="https://substack.com/@shrestha25np">
   <img src="https://img.shields.io/badge/Substack-Financial%20Writing-4C1D95?style=for-the-badge&logo=substack&logoColor=white"/>
 </a>
+<a href="https://www.instagram.com/ujjwalshrestha25/">
+  <img src="https://img.shields.io/badge/Instagram-Personal-172554?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br><br>
 
@@ -56,6 +50,12 @@
 
 <sub>
 Building analytical models, investment research frameworks, financial tools and decision-support systems for emerging and frontier markets.
+</sub>
+
+<br><br>
+
+<sub>
+Professional priority: LinkedIn → GitHub → Substack → Personal/Social. Instagram is intentionally secondary to the professional research ecosystem.
 </sub>
 
 </div>
@@ -68,8 +68,7 @@ Building analytical models, investment research frameworks, financial tools and 
 <a href="#featured-finance-projects">Projects</a> •
 <a href="#research--publications--financial-thinking">Research</a> •
 <a href="#experience--leadership">Experience</a> •
-<a href="#github-analytics">Analytics</a> •
-<a href="#current-focus">Current Focus</a>
+<a href="#github-analytics">Analytics</a>
 </p>
 
 ---
@@ -197,25 +196,6 @@ Instead, I am building the analytical foundation required to become one.
 - Capital Markets Research
 
 > **Positioning principle:** technology supports the finance identity. The objective is not to become a generic software developer, but to build better financial analysis through technology.
-
----
-
-# Quantitative Finance & Research Expertise
-
-| Domain | Current Level | Applied Work | Direction |
-|---|---|---|---|
-| Portfolio Analytics | Applied | Portfolio construction and risk analysis | Institutional portfolio analytics |
-| Financial Modeling | Applied | Valuation and decision-support models | Advanced financial engineering |
-| Equity Valuation | Applied / Research | Fundamental and scenario-based analysis | Institutional equity research |
-| Quantitative Research | Learning / Research | Financial data and model development | Quantitative investment research |
-| Risk Analytics | Applied / Learning | Exposure, sensitivity and stress concepts | Portfolio risk systems |
-| Behavioral Finance | Research | Investor behavior and market decisions | Behavioral investment research |
-| Time-Series Analysis | Learning / Research | Market and indicator analysis | Quantitative forecasting |
-| Market Regime Analysis | Research | Regime and cycle concepts | Systematic market research |
-| Financial Data Analytics | Applied | Data cleaning, analysis and visualization | Automated financial research |
-| Investment Research | Applied / Research | Market and company analysis | Professional investment research |
-| Emerging / Frontier Markets | Research | NEPSE and Nepalese capital-market research | International frontier-market research |
-| Python for Finance | Learning / Applied | Financial data workflows | Financial data engineering |
 
 ---
 
@@ -633,22 +613,6 @@ The long-term objective is to develop technology as an **analytical infrastructu
 
 My GitHub is intended to complement financial writing and research by providing a place where analytical ideas can move from **concept → model → evidence → interpretation**.
 
-### Research Themes
-
-- Behavioral Finance
-- AI-assisted investing and investor behavior
-- Market efficiency
-- Adaptive Market Hypothesis
-- Technical indicator evaluation
-- Market regimes
-- Frontier-market investing
-- Climate-related financial risk
-- Financial vulnerability
-- Investment decision-making
-- Nepalese capital markets
-- Portfolio analytics
-- Quantitative investment research
-
 ### Academic Research
 
 Academic research focuses on structured empirical questions, theory, methodology, statistical analysis and evidence.
@@ -764,116 +728,13 @@ No planned credential is presented as a completed professional designation.
 
 ---
 
-# Financial & Professional Profiles
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ujjwal-shrestha-01np/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ujjwal20020823">
-<img src="https://img.shields.io/badge/GitHub-Finance%20Research%20Lab-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://substack.com/@shrestha25np">
-<img src="https://img.shields.io/badge/Substack-Financial%20Intelligence-4C1D95?style=for-the-badge&logo=substack&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/ujjwalshrestha25/">
-<img src="https://img.shields.io/badge/Instagram-Personal%20Profile-172554?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
-**Professional priority:**
-
-`LinkedIn → GitHub → Substack → Personal/Social`
-
-Instagram is intentionally secondary to the professional research ecosystem.
-
----
-
 # GitHub Analytics
-
-<p align="center">
-
-<a href="https://github.com/Ujjwal20020823"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Ujjwal20020823&show_icons=true&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&icon_color=A78BFA&include_all_commits=true&count_private=false" alt="Ujjwal Shrestha GitHub statistics"/></a>
-<a href="https://github.com/Ujjwal20020823"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal20020823&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&langs_count=6" alt="Top languages"/></a>
-
-</p>
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ujjwal20020823&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=94A3B8" alt="GitHub contribution streak"/></a>
 </p>
 
 > GitHub analytics are dynamic and reflect repository activity. No manually reported follower, star, contribution or performance numbers are fabricated.
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ujjwal20020823&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/></a>
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwal20020823&bg_color=0B1020&color=C7D2FE&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Research%20%26%20Development%20Activity" alt="GitHub contribution activity graph"/></a>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake.svg" />
-</picture>
-</p>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Python for Financial Data Analysis
-  - Quantitative Finance
-  - Portfolio Analytics
-  - Advanced Excel / Financial Modeling
-  - Power BI
-  - Financial Research
-
-Building:
-  - Portfolio Analytics Models
-  - Financial Valuation Engines
-  - Risk Analytics Frameworks
-  - NEPSE Research Tools
-  - Financial Data Pipelines
-
-Exploring:
-  - Quantitative Investment Research
-  - Emerging & Frontier Markets
-  - Behavioral Finance
-  - Market Regime Analytics
-  - Climate Financial Risk
-  - Financial Technology
-
-Open_To:
-  - Investment Research
-  - Portfolio Analytics
-  - Financial Data Analytics
-  - Quantitative Finance Projects
-  - Financial Modeling
-  - Research Collaboration
-  - International Finance Opportunities
-```
 
 <div align="center">
 

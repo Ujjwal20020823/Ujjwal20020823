@@ -157,14 +157,7 @@ Instead, I am building the analytical foundation required to become one.
 - Capital Markets Research
 
 ---
-
-# Certifications & Professional Development
-
-Professional credentials should represent verified achievement rather than planned ambition.
-
-At present, this profile intentionally avoids displaying certification badges or credentials that have not been explicitly verified as completed.
-
-### Development Areas
+# Development Areas
 
 - Quantitative Finance
 - Financial Modeling

@@ -786,21 +786,15 @@ Instagram is intentionally secondary to the professional research ecosystem.
 
 <p align="center">
 
-<a href="https://github.com/Ujjwal20020823">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ujjwal20020823&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&icon_color=A78BFA&include_all_commits=true&count_private=false" alt="Ujjwal Shrestha GitHub statistics"/>
-</a>
+<a href="https://github.com/Ujjwal20020823"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ujjwal20020823&show_icons=true&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&icon_color=A78BFA&include_all_commits=true&count_private=false" alt="Ujjwal Shrestha GitHub statistics"/> </a>
 
-<a href="https://github.com/Ujjwal20020823">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal20020823&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&langs_count=6" alt="Top languages"/>
-</a>
+<a href="https://github.com/Ujjwal20020823"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal20020823&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C7D2FE&langs_count=6" alt="Top languages"/> </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=Ujjwal20020823&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=94A3B8" alt="GitHub contribution streak"/>
-</a>
+<a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Ujjwal20020823&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=94A3B8" alt="GitHub contribution streak"/> </a>
 
 </p>
 
@@ -812,9 +806,7 @@ Instagram is intentionally secondary to the professional research ecosystem.
 
 <p align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Ujjwal20020823&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
-</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=Ujjwal20020823&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/> </a>
 
 </p>
 
@@ -824,9 +816,7 @@ Instagram is intentionally secondary to the professional research ecosystem.
 
 <p align="center">
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwal20020823&bg_color=0B1020&color=C7D2FE&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Research%20%26%20Development%20Activity" alt="GitHub contribution activity graph"/>
-</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwal20020823&bg_color=0B1020&color=C7D2FE&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Research%20%26%20Development%20Activity" alt="GitHub contribution activity graph"/> </a>
 
 </p>
 
@@ -836,20 +826,9 @@ Instagram is intentionally secondary to the professional research ecosystem.
 
 <p align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake.svg"
-  />
-</picture>
+<p align="center">
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ujjwal20020823/Ujjwal20020823/output/github-snake.svg" /> </picture>
 
 </p>
 

@@ -54,10 +54,6 @@ Building analytical models, investment research frameworks, financial tools and 
 
 <br><br>
 
-<sub>
-Professional priority: LinkedIn → GitHub → Substack → Personal/Social. Instagram is intentionally secondary to the professional research ecosystem.
-</sub>
-
 </div>
 
 <br>
